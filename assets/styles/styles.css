@@ -281,6 +281,10 @@ figcaption {
     color: white;
 }
 
+.stat-main p {
+    color: #dcd7c9;
+}
+
 .stat-unit {
     color: #77766e;
     font-size: 11px;
@@ -288,10 +292,6 @@ figcaption {
 }
 
 .stat-main .stat-unit {
-    color: #dcd7c9;
-}
-
-.stat-card .stat-main {
     color: #dcd7c9;
 }
 
