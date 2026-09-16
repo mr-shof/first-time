@@ -1,6 +1,4 @@
-/* ================================
-   DASAR
-================================ */
+/* DASAR */
 
 * {
     box-sizing: border-box;
@@ -42,9 +40,7 @@ a {
     color: inherit;
 }
 
-/* ================================
-   HEADER
-================================ */
+/* HEADER */
 
 .jumbotron {
     padding: 75px 20px;
@@ -68,9 +64,7 @@ a {
     font-size: 15px;
 }
 
-/* ================================
-   NAVBAR
-================================ */
+/* NAVBAR */
 
 nav {
     position: sticky;
@@ -112,9 +106,7 @@ nav a:hover {
     color: #a27b5c;
 }
 
-/* ================================
-   LAYOUT
-================================ */
+/* LAYOUT */
 
 main {
     display: flex;
@@ -135,9 +127,7 @@ aside {
     min-width: 250px;
 }
 
-/* ================================
-   CARD
-================================ */
+/* CARD */
 
 .card {
     margin-bottom: 25px;
@@ -163,9 +153,7 @@ aside {
     color: #565d56;
 }
 
-/* ================================
-   GAMBAR
-================================ */
+/* GAMBAR */
 
 figure {
     margin: 20px 0;
@@ -190,9 +178,7 @@ figcaption {
     font-style: italic;
 }
 
-/* ================================
-   FACT BOX
-================================ */
+/* FACT BOX */
 
 .fact-box {
     margin-top: 25px;
@@ -223,9 +209,7 @@ figcaption {
     color: #77766e;
 }
 
-/* ================================
-   DASHBOARD
-================================ */
+/* DASHBOARD */
 
 .fire-dashboard {
     margin: 25px 0;
@@ -329,9 +313,7 @@ figcaption {
     font-size: 10px;
 }
 
-/* ================================
-   PENANGANAN / KOTAK
-================================ */
+/* PENANGANAN */
 
 .prevention-list {
     display: grid;
@@ -361,9 +343,7 @@ figcaption {
     font-size: 12px;
 }
 
-/* ================================
-   BACA SELENGKAPNYA
-================================ */
+/* BACA SELENGKAPNYA */
 
 .hidden {
     display: none;
@@ -390,9 +370,7 @@ figcaption {
     background-color: #a27b5c;
 }
 
-/* ================================
-   SIDEBAR
-================================ */
+/* SIDEBAR */
 
 .profile {
     position: sticky;
@@ -432,9 +410,7 @@ figcaption {
     border-bottom: 1px solid #ddd8cc;
 }
 
-/* ================================
-   TABLE
-================================ */
+/* TABLE */
 
 table {
     width: 100%;
@@ -468,9 +444,7 @@ tr:last-child td {
     border-bottom: none;
 }
 
-/* ================================
-   REFERENSI
-================================ */
+/* REFERENSI */
 
 .references {
     background-color: #faf8f2;
@@ -620,9 +594,7 @@ tr:last-child td {
     font-size: 10px;
 }
 
-/* ================================
-   BACK TO TOP
-================================ */
+/* BACK TO TOP */
 
 #back-to-top {
     position: fixed;
@@ -648,9 +620,7 @@ tr:last-child td {
     background-color: #a27b5c;
 }
 
-/* ================================
-   FOOTER
-================================ */
+/* FOOTER */
 
 footer {
     margin-top: 40px;
@@ -673,9 +643,7 @@ footer strong {
     color: white;
 }
 
-/* ================================
-   TABLET
-================================ */
+/* TAB */
 
 @media screen and (max-width: 900px) {
 
@@ -695,9 +663,7 @@ footer strong {
     }
 }
 
-/* ================================
-   MOBILE
-================================ */
+/* MOBILE */
 
 @media screen and (max-width: 768px) {
 
@@ -730,9 +696,7 @@ footer strong {
     }
 }
 
-/* ================================
-   MOBILE KECIL
-================================ */
+/* MOBILE MINI */
 
 @media screen and (max-width: 480px) {
 
@@ -787,9 +751,7 @@ footer strong {
     }
 }
 
-/* ================================
-   SELECTION
-================================ */
+/* SELECTION */
 
 ::selection {
     color: white;
