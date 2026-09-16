@@ -291,6 +291,10 @@ figcaption {
     color: #dcd7c9;
 }
 
+.stat-card .stat-main {
+    color: #dcd7c9;
+}
+
 .stat-card p {
     margin: 5px 0 0;
     font-size: 11px;
